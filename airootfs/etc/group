@@ -1,4 +1,5 @@
 root:x:0:root
+users:x:100:
 adm:x:4:archie
 wheel:x:10:archie
 uucp:x:14:archie
